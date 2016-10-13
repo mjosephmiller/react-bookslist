@@ -23,3 +23,4 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 	> npm install
 	> npm start
 ```
+Learning React by following Stephen Grider's React-Redux course on Udemy
